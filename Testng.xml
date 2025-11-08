@@ -1,0 +1,22 @@
+<suite name= "LoginSuite">
+<test name ="LoginTests">
+<classes>
+
+<class name="Tests.LoginTest">
+</class>
+</classes>
+
+
+</test>
+
+<test name ="AdvanceTests">
+<classes>
+
+<class name="Tests.AdvanceTest">
+</class>
+</classes>
+
+
+</test>
+
+</suite>

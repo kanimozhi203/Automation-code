@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="DebugSuite">
+    <test name="DebugLoginTest">
+        <classes>
+            <class name="Tests.DebugLoginTest">
+                <methods>
+                    <include name="debugLoginProcess"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
